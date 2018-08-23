@@ -1,2 +1,2 @@
-# gitskills
-Learn to use Git
+# CssSkills
+日常学习记录仓库
